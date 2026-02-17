@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img height="200" src="https://i.pinimg.com/1200x/82/77/8f/82778fcdb7bb061b2a1b89cc4dce5afd.jpg" />
+  <img height="350" src="https://i.pinimg.com/1200x/82/77/8f/82778fcdb7bb061b2a1b89cc4dce5afd.jpg" />
 
   <br>
   <h1 align="center">「 ✦ 𝐎𝐥á! 𝐒𝐨𝐮 𝐄𝐥𝐥𝐞𝐧 𝐆𝐮𝐞𝐝𝐞𝐬 ✦ 」</h1>
